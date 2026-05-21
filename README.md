@@ -1,0 +1,2 @@
+# Sign_language_translation
+基于深度学习的第一人称手语翻译设备
